@@ -1,1 +1,17 @@
+sekmiguma noteikšana
 
+ši ir vienkarša Python programma,kas palidz skolenam noskaidrot viņa sekmibu macibu kada nosleguma balstoties uz ievadito gada atzimi.
+
+###  Programmas nosacijumi un loģika
+Programma pieprasa lietotajam ievcadit savu gada vertejumu ka veselu skaitli (no 1 lidz 10) un veic šādu parbaudi:
+***Ja vertejumas ir 4 vai augstāks:** tiek izvadits paziņojums `"Esi veiksmigi pabeidsis macibu gadu!`"
+***Citadi(ja vertejums ir mazaks par 4):**tiek izvadits paziņojums `"Vel ir iespeju diena vai vasaras darbs!`"
+
+##Projrkta struktura
+Projekts sastav no šadiem failiem:
+programmas_13.10 <-- GALVENATS FAILS (palaidiet šo lai darbinatu programmu)
+REDME.md     <--šis apraksta un instrukcija fails
+
+##Lietošanas instrukcija
+Parliecinaties ka jusu datora ir uzstadits Python.
+Atveriet un palaidiet failu `programmas_kods.py`.
